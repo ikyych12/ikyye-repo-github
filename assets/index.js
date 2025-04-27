@@ -1,1 +1,35 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SMP Negeri 1 Tembilahan</title>
+  <link rel="stylesheet" href="asset/css/style.css">
+</head>
+<body>
+  <header>
+    <div class="logo">
+      <img src="asset/images/logo.png" alt="Logo SMP Negeri 1 Tembilahan">
+    </div>
+    <nav>
+      <ul>
+        <li><a href="pages/berita.html">Berita</a></li>
+        <li><a href="pages/prestasi.html">Prestasi</a></li>
+        <li><a href="pages/kontak.html">Kontak</a></li>
+        <li><a href="pages/login.html">Login</a></li>
+      </ul>
+    </nav>
+  </header>
 
+  <main>
+    <section class="hero">
+      <h1>Selamat Datang di SMP Negeri 1 Tembilahan</h1>
+      <p>Tempat belajar yang mengedepankan prestasi dan keunggulan.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 SMP Negeri 1 Tembilahan. All Rights Reserved.</p>
+  </footer>
+</body>
+</html>
